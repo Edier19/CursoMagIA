@@ -27,7 +27,7 @@
     var edad = 15;
     console.log(edad);
 
-    const lugarNacimiento = "Argentina";
+    const lugarNacimiento = "Estonia";
     console.log(lugarNacimiento);
 
 // Objeto Persona

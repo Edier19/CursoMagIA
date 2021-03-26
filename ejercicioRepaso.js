@@ -1,6 +1,6 @@
 //Ejercicio de Repaso Semana 1
 
-const practicaN1 = 5;
+const practicaN1 = 4;
 const practicaN2 = 5;
 const practicaN3 = 5;
 const practicaN4 = 5;

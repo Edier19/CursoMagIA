@@ -10,7 +10,7 @@ namespace Modulo_2
             System.Console.WriteLine("3:Sacar el porcentaje de un numero sabiendo su 100% \n 4: Sacar el puntaje de una ejericio");
             int opcion =Convert.ToInt32(Console.ReadLine());
 
-            int a;//valor total
+            int a;//valor total 
             int b;//valor variable
             int c;//porcentaje de la valor variable
 
