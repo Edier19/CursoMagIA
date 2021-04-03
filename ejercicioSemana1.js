@@ -5,10 +5,11 @@
     Chicle/     gt74/    4.25
     Galleta/    l3k8/   9.10  */
 
+const prompt = require('prompt-sync')();
 const producto=["chocolate", "paleta", "chicle", "galleta"];
 var precio = [12.50, 5.75, 4.25, 9.10];
-var codigo = "gt74";
-var dinero = 20;
+var codigo = prompt("Inserte el codigo ");
+var dinero = prompt("Cuanto dinero tiene ");
 
 //Si el codigo coincide, el valor del codigo cambiara para que insertarlos en el lugar donde se encuentra el producto en el arreglo
 if (codigo=="xc23")codigo = 0;
