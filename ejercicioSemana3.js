@@ -114,7 +114,7 @@ else if (contador < 2){
 
 else {
     lineas(3)
-    console.log('Intentandolo \n');
+    console.log('Sigue Intentandolo \n');
     lineas(3)}
 
 //Funciones 
