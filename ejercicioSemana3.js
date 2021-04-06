@@ -117,6 +117,8 @@ else {
     console.log('Sigue Intentandolo \n');
     lineas(3)}
 
+console.log("numero de obstaculos sorteados con exito :"+ contador);
+
 //Funciones 
 
 //Lineas puestas solo por estetica a lo largo del codigo
