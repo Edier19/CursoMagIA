@@ -117,7 +117,9 @@ else {
     console.log('Sigue Intentandolo \n');
     lineas(3)}
 
+lineas(4)
 console.log("numero de obstaculos sorteados con exito :"+ contador);
+lineas(4)
 
 //Funciones 
 
@@ -170,7 +172,7 @@ function girarIzquierda() {
     lineas(5);
     console.log("Girando a la izquierda \n")
     lineas(5);
-    prompt;
+    prompt();
 }
 
 // x es un valor booleano, sirve para ver si el obstaculo fue sorteado o no
