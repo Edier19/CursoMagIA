@@ -1,0 +1,26 @@
+D:\Curso MaIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.exe
+D:\Curso MaIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.deps.json
+D:\Curso MaIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.runtimeconfig.json
+D:\Curso MaIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.runtimeconfig.dev.json
+D:\Curso MaIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.dll
+D:\Curso MaIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.pdb
+D:\Curso MaIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.csprojAssemblyReference.cache
+D:\Curso MaIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.AssemblyInfoInputs.cache
+D:\Curso MaIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.AssemblyInfo.cs
+D:\Curso MaIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.csproj.CoreCompileInputs.cache
+D:\Curso MaIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.dll
+D:\Curso MaIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.pdb
+D:\Curso MaIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.genruntimeconfig.cache
+D:\CursoMagIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.exe
+D:\CursoMagIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.deps.json
+D:\CursoMagIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.runtimeconfig.json
+D:\CursoMagIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.runtimeconfig.dev.json
+D:\CursoMagIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.dll
+D:\CursoMagIA\Modulo 2\bin\Debug\netcoreapp3.1\Modulo 2.pdb
+D:\CursoMagIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.csprojAssemblyReference.cache
+D:\CursoMagIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.AssemblyInfoInputs.cache
+D:\CursoMagIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.AssemblyInfo.cs
+D:\CursoMagIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.csproj.CoreCompileInputs.cache
+D:\CursoMagIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.dll
+D:\CursoMagIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.pdb
+D:\CursoMagIA\Modulo 2\obj\Debug\netcoreapp3.1\Modulo 2.genruntimeconfig.cache
